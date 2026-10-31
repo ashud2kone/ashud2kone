@@ -160,5 +160,5 @@ The following projects are planned or being developed. Their status will be upda
 I welcome opportunities in Data Analytics, Business Analytics, Reporting, and Business Intelligence.
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ashutosh-dubey18m2/)
-- **GitHub:** Replace the placeholder GitHub URL near the top of this README with your profile link.
+
 
