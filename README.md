@@ -6,7 +6,7 @@ My focus is on turning structured data into clear findings that help answer busi
 
 - **Location:** Hyderabad, India
 - **LinkedIn:** [Ashutosh Dubey](https://www.linkedin.com/in/ashutosh-dubey18m2/)
-- **GitHub:** [Add your GitHub profile link](https://github.com/your-username)
+- **GitHub:** [Add your GitHub profile link](https://github.com/ashud2kone)
 
 ---
 
@@ -44,7 +44,7 @@ Explore customer data and delinquency risk, then develop an evidence-led recomme
 
 **Focus areas:** Exploratory data analysis, risk profiling, delinquency prediction, GenAI, business reporting, data storytelling, collections strategy.
 
-**Evidence:** [View certificate](certificates/Tata_iQ_GenAI_Analytics_Certificate.pdf)
+**Evidence:** [View certificate](https://drive.google.com/file/d/1wE06JtYCu-QP7dkEkjXOfDGk9IMtgW1P/view?usp=drive_link)
 
 **Project repository:** Add the GitHub repository link when published.
 
@@ -67,7 +67,7 @@ Analyze factory telemetry data to investigate machine breakdown patterns across 
 
 **Tools and focus areas:** Excel, Tableau, data analysis, telemetry, forensic technology, dashboarding, business conclusions.
 
-**Evidence:** [View certificate](certificates/Deloitte_Australia_Data_Analytics_Certificate.pdf)
+**Evidence:** [View certificate](https://drive.google.com/file/d/1Zilg17a0K3iRxra6ExE-cTT9jpIuARAL/view?usp=drive_link)
 
 **Project repository:** Add the GitHub repository link when published.
 
@@ -129,10 +129,10 @@ Analyze structured performance data to identify trends, data inconsistencies, co
 
 ## Training and Certificates
 
-- **Tata iQ | GenAI-Powered Data Analytics Job Simulation** — 25 October 2026. [Certificate](certificates/Tata_iQ_GenAI_Analytics_Certificate.pdf)
-- **Deloitte Australia | Data Analytics Job Simulation** — 7 October 2026. [Certificate](certificates/Deloitte_Australia_Data_Analytics_Certificate.pdf)
-- **Specialized Data Analytics Training | Coding Ninjas** — August 2025 to April 2026.
-- **Generative AI and Prompt Engineering** — 2026.
+- **Tata iQ | GenAI-Powered Data Analytics Job Simulation** — 25 October 2026. [Certificate]()
+- **Deloitte Australia | Data Analytics Job Simulation** — 7 October 2026. [Certificate](https://drive.google.com/file/d/1Zilg17a0K3iRxra6ExE-cTT9jpIuARAL/view?usp=drive_link)
+- **Specialized Data Analytics Training | Coding Ninjas** — August 2025 to April 2026.[Certificate](https://drive.google.com/file/d/1yzWw82FplYlve9BtogEVnlCOB1QQTa6J/view?usp=drive_link)
+- **Generative AI and Prompt Engineering** — 2026.[Certificate](https://drive.google.com/file/d/1ezuj-pdovLJh-FelBVmEtm-8Qh70EAhP/view?usp=drive_link)
 
 ---
 
