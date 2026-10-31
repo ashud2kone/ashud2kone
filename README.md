@@ -6,7 +6,7 @@ My focus is on turning structured data into clear findings that help answer busi
 
 - **Location:** Hyderabad, India
 - **LinkedIn:** [Ashutosh Dubey](https://www.linkedin.com/in/ashutosh-dubey18m2/)
-- **GitHub:** [Add your GitHub profile link](https://github.com/ashud2kone)
+- **GitHub:** [GitHub profile link](https://github.com/ashud2kone)
 
 ---
 
