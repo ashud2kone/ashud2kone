@@ -132,7 +132,7 @@ Analyze structured performance data to identify trends, data inconsistencies, co
 - **Tata iQ | GenAI-Powered Data Analytics Job Simulation** — 25 October 2026. [Certificate]()
 - **Deloitte Australia | Data Analytics Job Simulation** — 7 October 2026. [Certificate](https://drive.google.com/file/d/1Zilg17a0K3iRxra6ExE-cTT9jpIuARAL/view?usp=drive_link)
 - **Specialized Data Analytics Training | Coding Ninjas** — August 2025 to April 2026. [Certificate](https://drive.google.com/file/d/1yzWw82FplYlve9BtogEVnlCOB1QQTa6J/view?usp=drive_link)
-- **Generative AI and Prompt Engineering** — 2026. [Certificate] (https://drive.google.com/file/d/1ezuj-pdovLJh-FelBVmEtm-8Qh70EAhP/view?usp=drive_link)
+- **Generative AI and Prompt Engineering** — 2026. [Certificate](https://drive.google.com/file/d/1ezuj-pdovLJh-FelBVmEtm-8Qh70EAhP/view?usp=drive_link)
 
 ---
 
